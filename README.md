@@ -1,2 +1,2 @@
-# javaprograms
-Java Progams 2017-2018
+# JavaSidePrograms
+Java Progams 2017-2019!
